@@ -24,12 +24,3 @@ c. Tab change (e.g. For You to Top Tracks)
 d. Controlling music via seeker
 ```
 
-## Deployment
-
-Github Repository: [Sangeet](https://github.com/HarshTondak/Sangeet)
-
-This website is hosted using: [Vercel](https://www.vercel.com/)
-
-Hosted Website link is: [Sangeet-Suno](https://sangeet-suno.vercel.app/)
-
-**Have fun building!** 🚀
